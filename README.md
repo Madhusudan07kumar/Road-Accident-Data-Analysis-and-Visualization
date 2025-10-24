@@ -43,6 +43,4 @@ Centre for Infrastructure, Sustainable Transportation and Urban Planning (CiSTUP
 
 ***
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/112310428/61102e36-a2c4-4ba1-a827-04cf254bbfb0/Road-Accident-Analysis-Report.pdf)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/112310428/800dbb9e-86ae-49dc-abe2-1b0b7323f3ba/Round1_Internship-Position-in-Data-Analysis-and-Visualization.pdf)
 
